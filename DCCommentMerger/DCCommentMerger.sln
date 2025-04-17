@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DCCommentMerger", "DCCommentMerger.pyproj", "{8F911EEF-CF2C-4D5B-9096-521DB3E60E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F911EEF-CF2C-4D5B-9096-521DB3E60E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F911EEF-CF2C-4D5B-9096-521DB3E60E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5B7CE90-0276-4B49-94FE-0A8A05C4B390}
+	EndGlobalSection
+EndGlobal
