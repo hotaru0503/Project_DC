@@ -1,0 +1,5 @@
+# DCRankingTools 최소 글/댓글 수 필터링 설정 파일
+# 원하는 수치를 설정하세요. 기본값: min_posts=1, min_comments=1
+
+min_posts=5
+min_comments=10
